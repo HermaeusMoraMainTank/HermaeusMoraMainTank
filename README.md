@@ -4,8 +4,6 @@
 
 # mononobealice
 
-**QQ Bot · NapCat · 插件开发**
-
 [![GitHub followers](https://img.shields.io/github/followers/HermaeusMoraMainTank?style=social)](https://github.com/HermaeusMoraMainTank)
 [![GitHub stars](https://img.shields.io/github/stars/HermaeusMoraMainTank?style=social)](https://github.com/HermaeusMoraMainTank)
 
