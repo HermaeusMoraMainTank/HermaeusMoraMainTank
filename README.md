@@ -18,7 +18,7 @@
 - 🔭 主要使用：**Python** 、**Java** 
 - 🌱 推し：[物述有栖]([https://github.com/ncatbot/ncatbot](https://mzh.moegirl.org.cn/%E7%89%A9%E8%BF%B0%E6%9C%89%E6%A0%96))
 - 📫 E-mail：273421673@qq.com
-- 👯 关于我：渣渣java
+- 👯 关于我：jvav工程师
 - 🌐 Languages：中文 · English · 日本語（非常基础）
 
 ## ❄️ Skills
